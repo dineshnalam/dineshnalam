@@ -2,9 +2,9 @@
 ---
 - 👀 I’m interested in AI/ML, Enterpreneurship, Content Writing
 - 🌱 I’m currently learning Python, Java, ML
-- 🔭 I'm currently working on my Start-up
+- 🔭 I'm currently working on ML project
 - 💞️ I’m looking to collaborate on ML projects
-- 📫 Feel free to reach me on Linkedin
+- 📫 Feel free to reach me :)
 
 
 
