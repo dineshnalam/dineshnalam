@@ -14,6 +14,10 @@
 ### 📊Github Stat's
 ![Dinesh's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=dineshnalam&show_icons=true&theme=dark#gh-dark-mode-only) 
 
+### 📕Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 
 
