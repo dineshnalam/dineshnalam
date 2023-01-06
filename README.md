@@ -16,6 +16,7 @@
 
 ### 📕Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python&#39;s PIP package manager](https://dineshnalam.hashnode.dev/pythons-pip-package-manager)
 <!-- BLOG-POST-LIST:END -->
 
 
