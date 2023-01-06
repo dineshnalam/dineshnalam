@@ -1,8 +1,7 @@
-#  Hey👋, I'm Dinesh Nalam
----
+![download](https://user-images.githubusercontent.com/100040205/211050350-3aca3786-dd7d-4626-9db6-67709322a066.png)
 - 👀 I’m interested in AI/ML, Enterpreneurship and Writing.
-- 🌱 I’m currently learning Python, ML
-- 🔭 I'm currently working on an ML project
+- 🌱 I’m currently learning Python, ML.
+- 🔭 I'm currently working on a Python project.
 
 ###  🗒️Tools & Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
