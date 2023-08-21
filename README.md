@@ -18,7 +18,7 @@
 
 ### 📕Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [A Beginner’s guide to download any &lpar;almost&rpar; video on the internet.](https://dineshnalam.hashnode.dev/how-to-download-any-video-on-internet)
+- [A Beginner’s guide to download any &lpar;almost&rpar; video on the internet.](https://dineshnalam.hashnode.dev/download-any-video)
 - [Python&#39;s PIP package manager](https://dineshnalam.hashnode.dev/pythons-pip-package-manager)
 <!-- BLOG-POST-LIST:END -->
 
